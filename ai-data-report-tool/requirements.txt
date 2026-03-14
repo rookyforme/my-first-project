@@ -1,0 +1,6 @@
+pandas  # 处理Excel/CSV
+openpyxl  # 读写Excel
+matplotlib  # 可视化
+seaborn  # 美化图表
+streamlit  # 简易网页界面（不用懂前端）
+numpy  # 数据计算
